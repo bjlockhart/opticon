@@ -3,7 +3,7 @@
 Problem Statement
 
 ---
-Contraband sexually explicit digital media, specifically featuring underage minors, is proliferating all over the internet on social media and cloud storage sites, such as twitter, tumblr and dropbox, google plus, etc. Current efforts have been incompletely effective in curbing the storage and distribution of these files. The current approach using file hashing is an effective solution to avoiding potential privacy violations for users but will only function by matching previously known files through exact file hash matching. By evaluating the hashes of individual data blocks, rather than the hashes of entire files there has been some improvement to this [technique](https://www.sciencedirect.com/science/article/pii/S1742287615000468) but it continues to have poor sensitivity. Thus new contraband and older significantly altered files (changing file type or editing material's dimensions or length) are very likely to evade these current hash-based detection systems, thus necessitating heavy reliance on [human powered detection which is slow, costly, and psychologically burdensome to human content monitors](https://www.wnycstudios.org/story/post-no-evil).
+Contraband sexually explicit digital media, specifically featuring minors, is proliferating all over the internet on social media and cloud storage sites, such as twitter, tumblr and dropbox, google plus, etc. Current efforts have been not fully effective in curbing the storage and distribution of these files. The current approach using file hashing is an effective solution to avoiding potential privacy violations for users but will only function by matching previously known files through exact file hash matching. By evaluating the hashes of individual data blocks, rather than the hashes of entire files there has been some improvement to this [technique](https://www.sciencedirect.com/science/article/pii/S1742287615000468) but it continues to have poor sensitivity. Thus new contraband and older significantly altered files (changing file type or editing material's dimensions or length) are very likely to evade these current hash-based detection systems, thus necessitating heavy reliance on [human powered detection which is slow, costly, and psychologically burdensome to human content monitors](https://www.wnycstudios.org/story/post-no-evil).
 
 Proposed Solution
 
@@ -53,7 +53,7 @@ Web page scanning techonologies similar to that used by search engines could be 
 
 Therefore, by using known identifying linguistic elements that are found on pages where illegal content is likely to be distributed, computer programs that 'crawl' through all the content on web pages could identify likely targets through text anaylsis and then deploy image detection to to search for contraband files. This combination could become a hunt and seek tool that would serve techonology hosting firms and government agencies with their illegal content detection goals.
 
-Proposed Restitution Plan
+Proposed Plan
 ---
 ---
 
